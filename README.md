@@ -1,8 +1,10 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This is a simple website project for doing a Udemy course. Something.
 
 ## Introduction
+
+This is an example of an introduction. etc.
 
 ## Purpose
 
