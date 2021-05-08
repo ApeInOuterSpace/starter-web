@@ -17,3 +17,7 @@ is for doing git stuff to learn git stuff and stuff.
 This is a sample project. Text.
 
 ## How to contribute
+
+### Copyright
+
+2014 Git.Training.
