@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website project for doing a Udemy course. Something.
+This is a simple website project for doing a Udemy course. Something. Adding a line for rebasing etc.
 
 ## Introduction
 
