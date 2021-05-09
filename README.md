@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website project for doing a Udemy course. Something. Adding a line for rebasing etc., then more changes from myfeature branch too.
+This is a simple website project for doing a Udemy course. Something. Updating with an emergency change after stash.
 
 ## Introduction
 
